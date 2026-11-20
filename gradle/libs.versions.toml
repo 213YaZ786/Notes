@@ -13,7 +13,7 @@ room = "2.8.5"
 coroutines = "1.11.0"
 sqlcipher = "4.20.0"
 sqlite = "2.7.0"
-bouncycastle = "1.86"
+bouncycastle = "1.87"
 # Glide's GIF decoder (pure Java), run only inside the isolated DecoderService (Modules kit safemedia).
 gifdecoder = "5.0.9"
 
